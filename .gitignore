@@ -1,0 +1,6 @@
+.settings/
+.DS_Store
+*.iml
+_classpath.xml
+_project.xml
+
